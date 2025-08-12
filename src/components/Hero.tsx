@@ -17,15 +17,15 @@ export default function Hero() {
           </div>
 
           <div className="mt-6 text-slate-400 text-sm">
-            <div>GitHub: <a className="text-slate-200" href="https://github.com/shirish2001" target="_blank" rel="noreferrer">github.com/shirish2001</a></div>
-            <div>LinkedIn: <a className="text-slate-200" href="https://linkedin.com/in/shirish2001" target="_blank" rel="noreferrer">linkedin.com/in/shirish2001</a></div>
+            <div>GitHub: <a className="text-slate-200" href="https://github.com/shirish-baral" target="_blank" rel="noreferrer">github.com/shirish-baral</a></div>
+            <div>LinkedIn: <a className="text-slate-200" href="https://linkedin.com/in/shirish-baral" target="_blank" rel="noreferrer">linkedin.com/in/shirish-baral</a></div>
           </div>
         </div>
 
         <div className="lg:col-span-5 hidden lg:block">
           <div className="relative w-full rounded-xl overflow-hidden shadow-xl" style={{ minHeight: 320 }}>
             <img
-              src="https://source.unsplash.com/900x700/?portrait,developer?sig=211"
+              src="/IMG_4939.jpeg"
               alt="profile photo"
               className="w-full h-full object-cover"
             />
