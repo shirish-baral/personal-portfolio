@@ -96,7 +96,7 @@ Reach out for internships, collaborations, or questions.
 
 **Email:** baral.shirish8@gmail.com  
 **GitHub:** [github.com/shirish-baral](https://github.com/shirish-baral)  
-**LinkedIn:** [linkedin.com/in/shirish2001](https://linkedin.com/in/shirish2001)
+**LinkedIn:** [linkedin.com/in/shirish2001](https://linkedin.com/in/shirish-baral)
 
 ---
 
