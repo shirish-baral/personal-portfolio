@@ -20,30 +20,24 @@ Built with [React](https://reactjs.org/), [Vite](https://vitejs.dev/), and [Tail
 - **Other Tools:** D3.js (for visualizations), Markdown for content
 
 ---
-
 ## 📂 Project Structure
-
-portfolio/
-│── public/ # Static assets
-│── src/
-│ ├── components/ # Reusable components
-│ ├── pages/ # Page-level components
-│ ├── assets/ # Images and icons
-│ ├── data/ # Project and skills data
-│ ├── App.jsx # Main app file
-│ ├── index.css # TailwindCSS imports
-│ └── main.jsx # Entry point
-│── package.json
-│── README.md
-│── vite.config.js
-│── tailwind.config.js
-
-
-
----
+The portfolio project contains the following folders and files:  
+- `public/` – Static assets  
+- `src/` – Source code  
+  - `components/` – Reusable components  
+  - `pages/` – Page-level components  
+  - `assets/` – Images and icons  
+  - `data/` – Project and skills data  
+  - `App.jsx` – Main app file  
+  - `index.css` – TailwindCSS imports  
+  - `main.jsx` – Entry point  
+- `package.json` – Project dependencies and scripts  
+- `README.md` – Documentation file  
+- `vite.config.js` – Vite configuration  
+- `tailwind.config.js` – TailwindCSS configuration---
 
 ## 📸 Screenshots
-*(Add screenshots of your portfolio UI here)*
+*(to be added)*
 
 ---
 
@@ -56,7 +50,7 @@ I love building clean, user-friendly UIs and reproducible research pipelines.
 **Location:** Bhubaneswar, India  
 **Email:** baral.shirish8@gmail.com  
 **GitHub:** [github.com/shirish-baral](https://github.com/shirish-baral)  
-**LinkedIn:** [linkedin.com/in/shirish2001](https://linkedin.com/in/shirish2001)
+**LinkedIn:** [linkedin.com/in/shirish2001](https://linkedin.com/in/shirish-baral)
 
 ---
 
