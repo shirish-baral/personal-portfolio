@@ -1,21 +1,21 @@
 import React from "react";
 
 const skills = [
-	{ name: "Python", level: 92 },
-	{ name: "PyTorch", level: 84 },
-	{ name: "React", level: 86 },
-	{ name: "TypeScript", level: 72 },
-	{ name: "HTML CSS", level: 95 },
+	{ name: "Python", level: 98 },
+	{ name: "PyTorch", level: 92 },
+	{ name: "Machine Learning", level: 87 },
+	{ name: "Deep Learning", level: 83 },
+	{ name: "Image Analysis", level: 80 },
+	{ name: "Git", level: 91 },
 ];
 
 export default function Skills() {
 	return (
 		<section id="skills" className="py-12">
 			<h2 className="text-xl font-semibold text-white fade-up">Skills</h2>
-			<p className="text-slate-400 mt-2 max-w-2xl">
-				Languages, frameworks and tools i use frequently for projects and
-				research.
-			</p>
+					<p className="text-slate-400 mt-2 max-w-2xl">
+						Mathematics enthusiast with a strong foundation in mathematical concepts, algorithms, and their application to machine learning and deep learning. Here are the languages, frameworks, and tools I use frequently for research and projects.
+					</p>
 
 			<div className="mt-6 grid lg:grid-cols-2 grid-cols-1 gap-6">
 				{skills.map((s) => (
