@@ -7,8 +7,10 @@ export default function About() {
         <div className="lg:col-span-8">
           <h2 className="text-2xl font-semibold text-white fade-up">About me</h2>
           <p className="mt-4 text-slate-300 max-w-3xl">
-          I’m a Computer Science student with a strong focus on machine learning, deep learning, and data-driven applications. My work blends applied AI research with clean, functional web interfaces, enabling users to interact with complex models intuitively.
-<br></br><br></br>I have hands-on experience in medical image segmentation (MRI, CT, and ultrasound data), implementing architectures like U-Net, MambaUNet, and transformer-based models. My skill set also extends to computer vision, natural language processing, and building reproducible research pipelines.</p>
+            I’m a Computer Science student deeply focused on machine learning, deep learning, and data-driven applications. Currently, my research centers on deep learning for medical image analysis, including MRI, CT, and ultrasound data. I implement architectures like U-Net, MambaUNet, and transformer-based models, while also exploring broader fields like computer vision and building reproducible research pipelines.
+            <br /><br />
+            Though web development isn’t my main focus, I enjoy using AI-assisted tools to quickly put together clean, functional websites, usually as a fun and practical way to fill the time while my models are training. This blend of applied AI research with user-friendly interfaces helps me create demos that let users interact intuitively with complex models.
+          </p>
 
           <div className="mt-6 grid grid-cols-2 gap-4">
             <div className="bg-[#071127] p-4 rounded-md shadow-md">
@@ -27,7 +29,7 @@ export default function About() {
             <img src="/IMG_4939.jpeg" alt="avatar" className="w-full rounded-md" />
             <div className="mt-4 text-sm text-slate-300">
               <div><strong>Pronouns</strong> he/him</div>
-              <div className="mt-2"><strong>Email</strong> shirish.dev@example.com</div>
+              <div className="mt-2"><strong>Email</strong> baral.shirish8@gmail.com</div>
             </div>
           </div>
         </aside>
