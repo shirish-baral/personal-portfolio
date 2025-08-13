@@ -15,7 +15,7 @@ export default function Contact() {
               const name = (target.elements.namedItem("name") as HTMLInputElement).value;
               const email = (target.elements.namedItem("email") as HTMLInputElement).value;
               const msg = (target.elements.namedItem("message") as HTMLTextAreaElement).value;
-              window.location.href = `mailto:shirish.dev@example.com?subject=${encodeURIComponent("Message from " + name)}&body=${encodeURIComponent(msg + "\n\n" + email)}`;
+              window.location.href = `mailto:baral.shirish8@gmail.com?subject=${encodeURIComponent("Message from " + name)}&body=${encodeURIComponent(msg + "\n\n" + email)}`;
             }}
             className="space-y-3"
             aria-label="contact form"
