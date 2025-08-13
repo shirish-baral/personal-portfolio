@@ -9,7 +9,8 @@ export default function Hero() {
             Hi, I am <span className="text-accent">Shirish</span>
           </h1>
           <p className="mt-4 text-lg text-slate-300 max-w-3xl">
-            Computer Science student and web developer working on machine learning and data driven tools. I build clean user interfaces and reproducible research demos.
+            Computer Science student focused on machine learning and deep learning with a strong interest and building in AI.<br />
+            While my models train, I use AI to quickly put together simple, neat webpages, making the most of the downtime with a bit of creativity.
           </p>
           <div className="mt-6 flex items-center gap-4">
             <a className="inline-block rounded-lg bg-accent px-5 py-2 text-[#001219] font-semibold" href="#projects">See projects</a>
