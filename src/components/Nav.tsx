@@ -39,7 +39,7 @@ export default function Nav() {
         </nav>
 
         <div className="hidden lg:flex gap-3 items-center">
-          <a className="text-sm text-slate-300" href="mailto:shirish.dev@example.com">shirish.dev@example.com</a>
+          <a className="text-sm text-slate-300" href="mailto:baral.shirish8@gmail.com">baral.shirish8@gmail.com</a>
           <a className="px-3 py-1 rounded bg-accent text-[#001219] font-medium text-sm" href="#projects">View work</a>
         </div>
 
